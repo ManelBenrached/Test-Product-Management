@@ -1,0 +1,68 @@
+table {
+    width: 100%;
+}
+
+.promotion-label {
+    background-color: yellow;
+    padding: 2px 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.flash-sale-label {
+    background-color: red;
+    color: white;
+    padding: 2px 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.new-label {
+    background-color: green;
+    color: white;
+    padding: 2px 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.custom-icon-button {
+    height: 30px;
+    width: 15px;
+}
+
+.blue {
+    padding-top: 3px;
+    background-color: #2196F3;
+    color: white;
+
+}
+
+.green {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.promotion-label {
+    background-color: #ffc107;
+    color: hwb(0 20% 80%);
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.flash-sale-label {
+    background-color: #f44336;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.new-label {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+img.mat-mdc-card-image.mdc-card__media.image_prod {
+    width: 60px;
+}

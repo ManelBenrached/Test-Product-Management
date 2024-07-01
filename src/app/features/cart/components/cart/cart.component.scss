@@ -1,0 +1,41 @@
+ .app-cart {
+     width: 100% !important;
+ }
+
+ .mat-card {
+     width: 100%;
+ }
+
+ .mat-card {
+     @extend .mat-card;
+     width: 100%;
+ }
+
+ app-cart.ng-star-inserted {
+     width: 100% !important;
+ }
+
+ mat-card.mat-mdc-card.mdc-card.mat-card-cart {
+     background-color: beige;
+     width: 880px;
+ }
+
+ mat-card.mat-mdc-card.mdc-card {
+     margin: 0px;
+     padding: 6px;
+ }
+
+ .remove-button {
+     background-color: #ff1744;
+     color: white;
+ }
+
+ .clear-button {
+     background-color: #d32f2f;
+     color: white;
+ }
+
+ .remove-button:hover,
+ .clear-button:hover {
+     background-color: #ff616f;
+ }
