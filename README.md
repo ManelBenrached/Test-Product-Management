@@ -25,5 +25,6 @@ Running the Application
 Once installation and configuration are complete, you can now run the application:
 
 #ng serve
+
 This will compile the application and launch a development server. You can access your application through your web browser at http://localhost:4200/.
 
